@@ -1,0 +1,2259 @@
+{
+  "runs": [
+    {
+      "file": "/root/workspace/mithil/puzzles/easy1.txt",
+      "h": 0,
+      "time_sec": 0.023210031999042258
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy10.txt",
+      "h": 0,
+      "time_sec": 0.006395792002876988
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy11.txt",
+      "h": 0,
+      "time_sec": 0.014514034002786502
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy12.txt",
+      "h": 0,
+      "time_sec": 0.005438813997898251
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy13.txt",
+      "h": 0,
+      "time_sec": 0.014280822997534415
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy14.txt",
+      "h": 0,
+      "time_sec": 0.009858262001216644
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy15.txt",
+      "h": 0,
+      "time_sec": 0.015107195002201479
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy16.txt",
+      "h": 0,
+      "time_sec": 0.013227543000539299
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy17.txt",
+      "h": 0,
+      "time_sec": 0.01385942499837256
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy18.txt",
+      "h": 0,
+      "time_sec": 0.015420556999742985
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy19.txt",
+      "h": 0,
+      "time_sec": 0.02546518199960701
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy2.txt",
+      "h": 0,
+      "time_sec": 0.006482812001195271
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy20.txt",
+      "h": 0,
+      "time_sec": 0.013987001999339554
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy21.txt",
+      "h": 0,
+      "time_sec": 0.016937208998569986
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy22.txt",
+      "h": 0,
+      "time_sec": 0.01807878099862137
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy23.txt",
+      "h": 0,
+      "time_sec": 0.0144610899988038
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy24.txt",
+      "h": 0,
+      "time_sec": 0.0043840789985551964
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy25.txt",
+      "h": 0,
+      "time_sec": 0.0037171859985392075
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy26.txt",
+      "h": 0,
+      "time_sec": 0.010566051998466719
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy27.txt",
+      "h": 0,
+      "time_sec": 0.013633798000228126
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy28.txt",
+      "h": 0,
+      "time_sec": 0.020069563001015922
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy29.txt",
+      "h": 0,
+      "time_sec": 0.012062997000612086
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy3.txt",
+      "h": 0,
+      "time_sec": 0.006481617001554696
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy30.txt",
+      "h": 0,
+      "time_sec": 0.021161441000003833
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy31.txt",
+      "h": 0,
+      "time_sec": 0.027338750998751493
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy32.txt",
+      "h": 0,
+      "time_sec": 0.009177899999485817
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy33.txt",
+      "h": 0,
+      "time_sec": 0.017236970001249574
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy34.txt",
+      "h": 0,
+      "time_sec": 0.006295161001617089
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy35.txt",
+      "h": 0,
+      "time_sec": 0.012550947001727764
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy36.txt",
+      "h": 0,
+      "time_sec": 0.01199269399876357
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy37.txt",
+      "h": 0,
+      "time_sec": 0.01700335100031225
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy38.txt",
+      "h": 0,
+      "time_sec": 0.011470828998426441
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy39.txt",
+      "h": 0,
+      "time_sec": 0.007817011002771324
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy4.txt",
+      "h": 0,
+      "time_sec": 0.023839977002353407
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy40.txt",
+      "h": 0,
+      "time_sec": 0.011652397999569075
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy41.txt",
+      "h": 0,
+      "time_sec": 0.004917477999697439
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy42.txt",
+      "h": 0,
+      "time_sec": 0.010545466000621673
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy43.txt",
+      "h": 0,
+      "time_sec": 0.020569604999764124
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy44.txt",
+      "h": 0,
+      "time_sec": 0.01247697600047104
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy45.txt",
+      "h": 0,
+      "time_sec": 0.017569761999766342
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy46.txt",
+      "h": 0,
+      "time_sec": 0.010785605998535175
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy47.txt",
+      "h": 0,
+      "time_sec": 0.006722857997374376
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy48.txt",
+      "h": 0,
+      "time_sec": 0.01497589799691923
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy49.txt",
+      "h": 0,
+      "time_sec": 0.006333902998449048
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy5.txt",
+      "h": 0,
+      "time_sec": 0.006709110999508994
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy50.txt",
+      "h": 0,
+      "time_sec": 0.02565430499817012
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy6.txt",
+      "h": 0,
+      "time_sec": 0.0205272250022972
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy7.txt",
+      "h": 0,
+      "time_sec": 0.01416652899933979
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy8.txt",
+      "h": 0,
+      "time_sec": 0.004559000000881497
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy9.txt",
+      "h": 0,
+      "time_sec": 0.011555304001376498
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard1.txt",
+      "h": 0,
+      "time_sec": 0.005035207999753766
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard10.txt",
+      "h": 0,
+      "time_sec": 0.007475752998288954
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard11.txt",
+      "h": 0,
+      "time_sec": 0.011550979001185624
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard12.txt",
+      "h": 0,
+      "time_sec": 0.003756441998120863
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard13.txt",
+      "h": 0,
+      "time_sec": 0.007288474000233691
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard14.txt",
+      "h": 0,
+      "time_sec": 0.010157398999581346
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard15.txt",
+      "h": 0,
+      "time_sec": 0.003639044000010472
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard16.txt",
+      "h": 0,
+      "time_sec": 0.012966158999915933
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard17.txt",
+      "h": 0,
+      "time_sec": 0.006635082998400321
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard18.txt",
+      "h": 0,
+      "time_sec": 0.010455317999003455
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard19.txt",
+      "h": 0,
+      "time_sec": 0.019917511999665294
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard2.txt",
+      "h": 0,
+      "time_sec": 0.002143036002962617
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard20.txt",
+      "h": 0,
+      "time_sec": 0.003499484999338165
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard21.txt",
+      "h": 0,
+      "time_sec": 0.01382799199927831
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard22.txt",
+      "h": 0,
+      "time_sec": 0.018833120997442165
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard23.txt",
+      "h": 0,
+      "time_sec": 0.0024604179998277687
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard24.txt",
+      "h": 0,
+      "time_sec": 0.015310208000300918
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard25.txt",
+      "h": 0,
+      "time_sec": 0.0032247429990093224
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard26.txt",
+      "h": 0,
+      "time_sec": 0.008071012001892086
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard27.txt",
+      "h": 0,
+      "time_sec": 0.005773103999672458
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard28.txt",
+      "h": 0,
+      "time_sec": 0.022067645000788616
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard29.txt",
+      "h": 0,
+      "time_sec": 0.021316179998393636
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard3.txt",
+      "h": 0,
+      "time_sec": 0.005900126001506578
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard30.txt",
+      "h": 0,
+      "time_sec": 0.002908164999098517
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard31.txt",
+      "h": 0,
+      "time_sec": 0.01331378000031691
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard32.txt",
+      "h": 0,
+      "time_sec": 0.018968820997542934
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard33.txt",
+      "h": 0,
+      "time_sec": 0.01031806500031962
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard34.txt",
+      "h": 0,
+      "time_sec": 0.022591282999201212
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard35.txt",
+      "h": 0,
+      "time_sec": 0.006272200000239536
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard36.txt",
+      "h": 0,
+      "time_sec": 0.0033950819997699
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard37.txt",
+      "h": 0,
+      "time_sec": 0.009914988000673475
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard38.txt",
+      "h": 0,
+      "time_sec": 0.00512689499737462
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard39.txt",
+      "h": 0,
+      "time_sec": 0.0054706209994037636
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard4.txt",
+      "h": 0,
+      "time_sec": 0.01261635399714578
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard40.txt",
+      "h": 0,
+      "time_sec": 0.0036187760015309323
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard41.txt",
+      "h": 0,
+      "time_sec": 0.0315727200031688
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard42.txt",
+      "h": 0,
+      "time_sec": 0.008679422000568593
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard43.txt",
+      "h": 0,
+      "time_sec": 0.009557566998410039
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard44.txt",
+      "h": 0,
+      "time_sec": 0.013208145999669796
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard45.txt",
+      "h": 0,
+      "time_sec": 0.03003547100161086
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard46.txt",
+      "h": 0,
+      "time_sec": 0.03112681999846245
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard47.txt",
+      "h": 0,
+      "time_sec": 0.030530405998433707
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard48.txt",
+      "h": 0,
+      "time_sec": 0.028072418997908244
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard49.txt",
+      "h": 0,
+      "time_sec": 0.03732355199826998
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard5.txt",
+      "h": 0,
+      "time_sec": 0.006822765000833897
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard50.txt",
+      "h": 0,
+      "time_sec": 0.03553850800017244
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard6.txt",
+      "h": 0,
+      "time_sec": 0.03109682300055283
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard7.txt",
+      "h": 0,
+      "time_sec": 0.049092795998149086
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard8.txt",
+      "h": 0,
+      "time_sec": 0.03441120600109571
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard9.txt",
+      "h": 0,
+      "time_sec": 0.0636762739995902
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med1.txt",
+      "h": 0,
+      "time_sec": 0.01548887500030105
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med10.txt",
+      "h": 0,
+      "time_sec": 0.04701361600018572
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med11.txt",
+      "h": 0,
+      "time_sec": 0.030046354000660358
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med12.txt",
+      "h": 0,
+      "time_sec": 0.023472280001442414
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med13.txt",
+      "h": 0,
+      "time_sec": 0.03958090600281139
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med14.txt",
+      "h": 0,
+      "time_sec": 0.02599072600060026
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med15.txt",
+      "h": 0,
+      "time_sec": 0.019655880001664627
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med16.txt",
+      "h": 0,
+      "time_sec": 0.012017861001368146
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med17.txt",
+      "h": 0,
+      "time_sec": 0.017383247999532614
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med18.txt",
+      "h": 0,
+      "time_sec": 0.046020760000828886
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med19.txt",
+      "h": 0,
+      "time_sec": 0.04644528199787601
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med2.txt",
+      "h": 0,
+      "time_sec": 0.036098095999477664
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med20.txt",
+      "h": 0,
+      "time_sec": 0.013156822999008
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med21.txt",
+      "h": 0,
+      "time_sec": 0.04894232899823692
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med22.txt",
+      "h": 0,
+      "time_sec": 0.007198647999757668
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med23.txt",
+      "h": 0,
+      "time_sec": 0.026413393003167585
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med24.txt",
+      "h": 0,
+      "time_sec": 0.00437615099872346
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med25.txt",
+      "h": 0,
+      "time_sec": 0.031838812999922084
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med26.txt",
+      "h": 0,
+      "time_sec": 0.014913723996869521
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med27.txt",
+      "h": 0,
+      "time_sec": 0.02259938800125383
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med28.txt",
+      "h": 0,
+      "time_sec": 0.028789590000087628
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med29.txt",
+      "h": 0,
+      "time_sec": 0.015664082999137463
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med3.txt",
+      "h": 0,
+      "time_sec": 0.0030608509987359866
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med30.txt",
+      "h": 0,
+      "time_sec": 0.0053096039991942234
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med31.txt",
+      "h": 0,
+      "time_sec": 0.006167300998640712
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med32.txt",
+      "h": 0,
+      "time_sec": 0.007067397000355413
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med33.txt",
+      "h": 0,
+      "time_sec": 0.013992315001814859
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med34.txt",
+      "h": 0,
+      "time_sec": 0.04896114499933901
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med35.txt",
+      "h": 0,
+      "time_sec": 0.009316452000348363
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med36.txt",
+      "h": 0,
+      "time_sec": 0.045394574997772
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med37.txt",
+      "h": 0,
+      "time_sec": 0.018680793000385165
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med38.txt",
+      "h": 0,
+      "time_sec": 0.006611295997572597
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med39.txt",
+      "h": 0,
+      "time_sec": 0.006300871998973889
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med4.txt",
+      "h": 0,
+      "time_sec": 0.013076384999294532
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med40.txt",
+      "h": 0,
+      "time_sec": 0.0037028529986855574
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med41.txt",
+      "h": 0,
+      "time_sec": 0.016005737001250964
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med42.txt",
+      "h": 0,
+      "time_sec": 0.004756152000481961
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med43.txt",
+      "h": 0,
+      "time_sec": 0.014235568000003695
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med44.txt",
+      "h": 0,
+      "time_sec": 0.025714503000926925
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med45.txt",
+      "h": 0,
+      "time_sec": 0.028789115000108723
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med46.txt",
+      "h": 0,
+      "time_sec": 0.006776688001991715
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med47.txt",
+      "h": 0,
+      "time_sec": 0.01762984600281925
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med48.txt",
+      "h": 0,
+      "time_sec": 0.015636617001291597
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med49.txt",
+      "h": 0,
+      "time_sec": 0.03358531899721129
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med5.txt",
+      "h": 0,
+      "time_sec": 0.005417517000751104
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med50.txt",
+      "h": 0,
+      "time_sec": 0.014026289001776604
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med6.txt",
+      "h": 0,
+      "time_sec": 0.02323828500084346
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med7.txt",
+      "h": 0,
+      "time_sec": 0.005907030001253588
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med8.txt",
+      "h": 0,
+      "time_sec": 0.017331647999526467
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med9.txt",
+      "h": 0,
+      "time_sec": 0.026559809000900714
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy1.txt",
+      "h": 1,
+      "time_sec": 0.0029356640006881207
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy10.txt",
+      "h": 1,
+      "time_sec": 0.005132852998940507
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy11.txt",
+      "h": 1,
+      "time_sec": 0.013183402999857208
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy12.txt",
+      "h": 1,
+      "time_sec": 0.032316529999661725
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy13.txt",
+      "h": 1,
+      "time_sec": 0.009482136003498454
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy14.txt",
+      "h": 1,
+      "time_sec": 0.005823976000101538
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy15.txt",
+      "h": 1,
+      "time_sec": 0.012087122999218991
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy16.txt",
+      "h": 1,
+      "time_sec": 0.011662021999654826
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy17.txt",
+      "h": 1,
+      "time_sec": 0.024600589997135103
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy18.txt",
+      "h": 1,
+      "time_sec": 0.006619678999413736
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy19.txt",
+      "h": 1,
+      "time_sec": 0.01580905800074106
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy2.txt",
+      "h": 1,
+      "time_sec": 0.01393784099855111
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy20.txt",
+      "h": 1,
+      "time_sec": 0.014745667998795398
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy21.txt",
+      "h": 1,
+      "time_sec": 0.021908138998696813
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy22.txt",
+      "h": 1,
+      "time_sec": 0.005677256998751545
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy23.txt",
+      "h": 1,
+      "time_sec": 0.02980096200190019
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy24.txt",
+      "h": 1,
+      "time_sec": 0.011485561000881717
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy25.txt",
+      "h": 1,
+      "time_sec": 0.004613058001268655
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy26.txt",
+      "h": 1,
+      "time_sec": 0.009039446998940548
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy27.txt",
+      "h": 1,
+      "time_sec": 0.00455997500102967
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy28.txt",
+      "h": 1,
+      "time_sec": 0.008011926998733543
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy29.txt",
+      "h": 1,
+      "time_sec": 0.01215403999958653
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy3.txt",
+      "h": 1,
+      "time_sec": 0.005173528003069805
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy30.txt",
+      "h": 1,
+      "time_sec": 0.0027803839984699152
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy31.txt",
+      "h": 1,
+      "time_sec": 0.005119819001265569
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy32.txt",
+      "h": 1,
+      "time_sec": 0.005882741999812424
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy33.txt",
+      "h": 1,
+      "time_sec": 0.007544144998973934
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy34.txt",
+      "h": 1,
+      "time_sec": 0.003934555999876466
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy35.txt",
+      "h": 1,
+      "time_sec": 0.009219430001394358
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy36.txt",
+      "h": 1,
+      "time_sec": 0.016235327999311266
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy37.txt",
+      "h": 1,
+      "time_sec": 0.014214448998245643
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy38.txt",
+      "h": 1,
+      "time_sec": 0.016090622997580795
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy39.txt",
+      "h": 1,
+      "time_sec": 0.004317683000408579
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy4.txt",
+      "h": 1,
+      "time_sec": 0.0034356030009803362
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy40.txt",
+      "h": 1,
+      "time_sec": 0.014061959001992363
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy41.txt",
+      "h": 1,
+      "time_sec": 0.006195103997015394
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy42.txt",
+      "h": 1,
+      "time_sec": 0.010537033002037788
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy43.txt",
+      "h": 1,
+      "time_sec": 0.0048579460017208476
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy44.txt",
+      "h": 1,
+      "time_sec": 0.0038389610017475206
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy45.txt",
+      "h": 1,
+      "time_sec": 0.013783704998786561
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy46.txt",
+      "h": 1,
+      "time_sec": 0.0036984719990869053
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy47.txt",
+      "h": 1,
+      "time_sec": 0.014300949002063135
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy48.txt",
+      "h": 1,
+      "time_sec": 0.01632439600143698
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy49.txt",
+      "h": 1,
+      "time_sec": 0.0028908580025017727
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy5.txt",
+      "h": 1,
+      "time_sec": 0.01692417099911836
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy50.txt",
+      "h": 1,
+      "time_sec": 0.013799494998238515
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy6.txt",
+      "h": 1,
+      "time_sec": 0.009292129998357268
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy7.txt",
+      "h": 1,
+      "time_sec": 0.012674434001382906
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy8.txt",
+      "h": 1,
+      "time_sec": 0.015591046001645736
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy9.txt",
+      "h": 1,
+      "time_sec": 0.00557585500064306
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard1.txt",
+      "h": 1,
+      "time_sec": 0.009179188000416616
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard10.txt",
+      "h": 1,
+      "time_sec": 0.00901752400022815
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard11.txt",
+      "h": 1,
+      "time_sec": 0.013483443999575684
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard12.txt",
+      "h": 1,
+      "time_sec": 0.002288661999045871
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard13.txt",
+      "h": 1,
+      "time_sec": 0.013124380999215646
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard14.txt",
+      "h": 1,
+      "time_sec": 0.004585224000038579
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard15.txt",
+      "h": 1,
+      "time_sec": 0.01583653000125196
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard16.txt",
+      "h": 1,
+      "time_sec": 0.012986036999791395
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard17.txt",
+      "h": 1,
+      "time_sec": 0.0185636220012384
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard18.txt",
+      "h": 1,
+      "time_sec": 0.008293627000966808
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard19.txt",
+      "h": 1,
+      "time_sec": 0.0029672370001208037
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard2.txt",
+      "h": 1,
+      "time_sec": 0.010050919998320751
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard20.txt",
+      "h": 1,
+      "time_sec": 0.0063404069987882394
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard21.txt",
+      "h": 1,
+      "time_sec": 0.014624004998040618
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard22.txt",
+      "h": 1,
+      "time_sec": 0.013055020001047524
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard23.txt",
+      "h": 1,
+      "time_sec": 0.005886521998036187
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard24.txt",
+      "h": 1,
+      "time_sec": 0.023297292998904595
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard25.txt",
+      "h": 1,
+      "time_sec": 0.023298771997360745
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard26.txt",
+      "h": 1,
+      "time_sec": 0.004661131999455392
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard27.txt",
+      "h": 1,
+      "time_sec": 0.00284338200071943
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard28.txt",
+      "h": 1,
+      "time_sec": 0.024024148002354195
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard29.txt",
+      "h": 1,
+      "time_sec": 0.02047309000045061
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard3.txt",
+      "h": 1,
+      "time_sec": 0.005967996999970637
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard30.txt",
+      "h": 1,
+      "time_sec": 0.009730066001793602
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard31.txt",
+      "h": 1,
+      "time_sec": 0.028111735999118537
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard32.txt",
+      "h": 1,
+      "time_sec": 0.012820370000554249
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard33.txt",
+      "h": 1,
+      "time_sec": 0.0025341020009364
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard34.txt",
+      "h": 1,
+      "time_sec": 0.004278227002942003
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard35.txt",
+      "h": 1,
+      "time_sec": 0.015130458999919938
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard36.txt",
+      "h": 1,
+      "time_sec": 0.02314314500108594
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard37.txt",
+      "h": 1,
+      "time_sec": 0.014768326000194065
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard38.txt",
+      "h": 1,
+      "time_sec": 0.0027206279992242344
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard39.txt",
+      "h": 1,
+      "time_sec": 0.0364377770019928
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard4.txt",
+      "h": 1,
+      "time_sec": 0.02332126100009191
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard40.txt",
+      "h": 1,
+      "time_sec": 0.018612839998240815
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard41.txt",
+      "h": 1,
+      "time_sec": 0.012398523998854216
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard42.txt",
+      "h": 1,
+      "time_sec": 0.024118715002259705
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard43.txt",
+      "h": 1,
+      "time_sec": 0.004339062001236016
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard44.txt",
+      "h": 1,
+      "time_sec": 0.0018419480002194177
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard45.txt",
+      "h": 1,
+      "time_sec": 0.010074763002194231
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard46.txt",
+      "h": 1,
+      "time_sec": 0.005575431998295244
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard47.txt",
+      "h": 1,
+      "time_sec": 0.014324010000564158
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard48.txt",
+      "h": 1,
+      "time_sec": 0.0033749210015230346
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard49.txt",
+      "h": 1,
+      "time_sec": 0.028712245999486186
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard5.txt",
+      "h": 1,
+      "time_sec": 0.003102548002061667
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard50.txt",
+      "h": 1,
+      "time_sec": 0.002632179002830526
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard6.txt",
+      "h": 1,
+      "time_sec": 0.0177476110002317
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard7.txt",
+      "h": 1,
+      "time_sec": 0.013851622003130615
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard8.txt",
+      "h": 1,
+      "time_sec": 0.005167843999515753
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard9.txt",
+      "h": 1,
+      "time_sec": 0.01562909399945056
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med1.txt",
+      "h": 1,
+      "time_sec": 0.020761187999596586
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med10.txt",
+      "h": 1,
+      "time_sec": 0.013927203999628546
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med11.txt",
+      "h": 1,
+      "time_sec": 0.020816437998291804
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med12.txt",
+      "h": 1,
+      "time_sec": 0.0032281679996231105
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med13.txt",
+      "h": 1,
+      "time_sec": 0.03214672099784366
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med14.txt",
+      "h": 1,
+      "time_sec": 0.002729566000198247
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med15.txt",
+      "h": 1,
+      "time_sec": 0.015500106001127278
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med16.txt",
+      "h": 1,
+      "time_sec": 0.023580059001687914
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med17.txt",
+      "h": 1,
+      "time_sec": 0.00752807400203892
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med18.txt",
+      "h": 1,
+      "time_sec": 0.037703637000959134
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med19.txt",
+      "h": 1,
+      "time_sec": 0.015468115998373833
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med2.txt",
+      "h": 1,
+      "time_sec": 0.004369416001281934
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med20.txt",
+      "h": 1,
+      "time_sec": 0.014626215997850522
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med21.txt",
+      "h": 1,
+      "time_sec": 0.0027666360001603607
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med22.txt",
+      "h": 1,
+      "time_sec": 0.005649883998557925
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med23.txt",
+      "h": 1,
+      "time_sec": 0.0329971850005677
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med24.txt",
+      "h": 1,
+      "time_sec": 0.012992382999073016
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med25.txt",
+      "h": 1,
+      "time_sec": 0.016508099000930088
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med26.txt",
+      "h": 1,
+      "time_sec": 0.002550129000155721
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med27.txt",
+      "h": 1,
+      "time_sec": 0.015276224999979604
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med28.txt",
+      "h": 1,
+      "time_sec": 0.011385609999706503
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med29.txt",
+      "h": 1,
+      "time_sec": 0.005192439999518683
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med3.txt",
+      "h": 1,
+      "time_sec": 0.0024771709977358114
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med30.txt",
+      "h": 1,
+      "time_sec": 0.009758344996953383
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med31.txt",
+      "h": 1,
+      "time_sec": 0.0038165480000316165
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med32.txt",
+      "h": 1,
+      "time_sec": 0.00663011600045138
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med33.txt",
+      "h": 1,
+      "time_sec": 0.009769291998964036
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med34.txt",
+      "h": 1,
+      "time_sec": 0.01350378200004343
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med35.txt",
+      "h": 1,
+      "time_sec": 0.012659359999815933
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med36.txt",
+      "h": 1,
+      "time_sec": 0.011586655000428436
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med37.txt",
+      "h": 1,
+      "time_sec": 0.01465802999882726
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med38.txt",
+      "h": 1,
+      "time_sec": 0.012854496999352705
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med39.txt",
+      "h": 1,
+      "time_sec": 0.003022050001163734
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med4.txt",
+      "h": 1,
+      "time_sec": 0.004800326998520177
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med40.txt",
+      "h": 1,
+      "time_sec": 0.018774369000311708
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med41.txt",
+      "h": 1,
+      "time_sec": 0.03131139799734228
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med42.txt",
+      "h": 1,
+      "time_sec": 0.011644286001683213
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med43.txt",
+      "h": 1,
+      "time_sec": 0.006312625999271404
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med44.txt",
+      "h": 1,
+      "time_sec": 0.008131155002047308
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med45.txt",
+      "h": 1,
+      "time_sec": 0.006678132998786168
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med46.txt",
+      "h": 1,
+      "time_sec": 0.013191411999287084
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med47.txt",
+      "h": 1,
+      "time_sec": 0.015725399000075413
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med48.txt",
+      "h": 1,
+      "time_sec": 0.0025061320011445787
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med49.txt",
+      "h": 1,
+      "time_sec": 0.0026894740003626794
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med5.txt",
+      "h": 1,
+      "time_sec": 0.004618136001226958
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med50.txt",
+      "h": 1,
+      "time_sec": 0.011825609999505104
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med6.txt",
+      "h": 1,
+      "time_sec": 0.006590051001694519
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med7.txt",
+      "h": 1,
+      "time_sec": 0.002873047000321094
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med8.txt",
+      "h": 1,
+      "time_sec": 0.0158366739997291
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med9.txt",
+      "h": 1,
+      "time_sec": 0.007970089998707408
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy1.txt",
+      "h": 2,
+      "time_sec": 0.018145485999411903
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy10.txt",
+      "h": 2,
+      "time_sec": 0.005670780999935232
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy11.txt",
+      "h": 2,
+      "time_sec": 0.010375805999501608
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy12.txt",
+      "h": 2,
+      "time_sec": 0.014314567000837997
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy13.txt",
+      "h": 2,
+      "time_sec": 0.008851680999214295
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy14.txt",
+      "h": 2,
+      "time_sec": 0.014909416000591591
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy15.txt",
+      "h": 2,
+      "time_sec": 0.013490454002749175
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy16.txt",
+      "h": 2,
+      "time_sec": 0.007355980000284035
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy17.txt",
+      "h": 2,
+      "time_sec": 0.006890695000038249
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy18.txt",
+      "h": 2,
+      "time_sec": 0.0030873930008965544
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy19.txt",
+      "h": 2,
+      "time_sec": 0.026656018999346998
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy2.txt",
+      "h": 2,
+      "time_sec": 0.003403744998649927
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy20.txt",
+      "h": 2,
+      "time_sec": 0.005445680999400793
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy21.txt",
+      "h": 2,
+      "time_sec": 0.026234685003146296
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy22.txt",
+      "h": 2,
+      "time_sec": 0.007192136003141059
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy23.txt",
+      "h": 2,
+      "time_sec": 0.006655717999819899
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy24.txt",
+      "h": 2,
+      "time_sec": 0.0034997689981537405
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy25.txt",
+      "h": 2,
+      "time_sec": 0.006497528000181774
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy26.txt",
+      "h": 2,
+      "time_sec": 0.015644588998839026
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy27.txt",
+      "h": 2,
+      "time_sec": 0.013378356001339853
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy28.txt",
+      "h": 2,
+      "time_sec": 0.0051341569997021
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy29.txt",
+      "h": 2,
+      "time_sec": 0.008019849999982398
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy3.txt",
+      "h": 2,
+      "time_sec": 0.002916784000262851
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy30.txt",
+      "h": 2,
+      "time_sec": 0.005058811999333557
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy31.txt",
+      "h": 2,
+      "time_sec": 0.013989072002004832
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy32.txt",
+      "h": 2,
+      "time_sec": 0.021605424000881612
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy33.txt",
+      "h": 2,
+      "time_sec": 0.012166461001470452
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy34.txt",
+      "h": 2,
+      "time_sec": 0.009900635999656515
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy35.txt",
+      "h": 2,
+      "time_sec": 0.010685737997846445
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy36.txt",
+      "h": 2,
+      "time_sec": 0.002443059998768149
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy37.txt",
+      "h": 2,
+      "time_sec": 0.010158342996874126
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy38.txt",
+      "h": 2,
+      "time_sec": 0.00889945800008718
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy39.txt",
+      "h": 2,
+      "time_sec": 0.018571648997749435
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy4.txt",
+      "h": 2,
+      "time_sec": 0.003333538999868324
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy40.txt",
+      "h": 2,
+      "time_sec": 0.011616332998528378
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy41.txt",
+      "h": 2,
+      "time_sec": 0.004436570998223033
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy42.txt",
+      "h": 2,
+      "time_sec": 0.011013883002306102
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy43.txt",
+      "h": 2,
+      "time_sec": 0.008425154999713413
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy44.txt",
+      "h": 2,
+      "time_sec": 0.019320555999001954
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy45.txt",
+      "h": 2,
+      "time_sec": 0.011018533001333708
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy46.txt",
+      "h": 2,
+      "time_sec": 0.009651276002841769
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy47.txt",
+      "h": 2,
+      "time_sec": 0.014856764999422012
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy48.txt",
+      "h": 2,
+      "time_sec": 0.004231499999150401
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy49.txt",
+      "h": 2,
+      "time_sec": 0.01404906500101788
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy5.txt",
+      "h": 2,
+      "time_sec": 0.0027105050030513667
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy50.txt",
+      "h": 2,
+      "time_sec": 0.01199947399800294
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy6.txt",
+      "h": 2,
+      "time_sec": 0.004083146999619203
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy7.txt",
+      "h": 2,
+      "time_sec": 0.015663695998227922
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy8.txt",
+      "h": 2,
+      "time_sec": 0.00748501699854387
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/easy9.txt",
+      "h": 2,
+      "time_sec": 0.0024986019998323172
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard1.txt",
+      "h": 2,
+      "time_sec": 0.005599913998594275
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard10.txt",
+      "h": 2,
+      "time_sec": 0.01607471299939789
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard11.txt",
+      "h": 2,
+      "time_sec": 0.00864739999815356
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard12.txt",
+      "h": 2,
+      "time_sec": 0.015140890998736722
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard13.txt",
+      "h": 2,
+      "time_sec": 0.004026249000162352
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard14.txt",
+      "h": 2,
+      "time_sec": 0.009914442998706363
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard15.txt",
+      "h": 2,
+      "time_sec": 0.02263890399990487
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard16.txt",
+      "h": 2,
+      "time_sec": 0.002853875997971045
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard17.txt",
+      "h": 2,
+      "time_sec": 0.013424056000076234
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard18.txt",
+      "h": 2,
+      "time_sec": 0.015924485996947624
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard19.txt",
+      "h": 2,
+      "time_sec": 0.0025067629976547323
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard2.txt",
+      "h": 2,
+      "time_sec": 0.016803960999823175
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard20.txt",
+      "h": 2,
+      "time_sec": 0.008799677001661621
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard21.txt",
+      "h": 2,
+      "time_sec": 0.010027807998994831
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard22.txt",
+      "h": 2,
+      "time_sec": 0.011575018001167336
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard23.txt",
+      "h": 2,
+      "time_sec": 0.002239902998553589
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard24.txt",
+      "h": 2,
+      "time_sec": 0.012022396000247682
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard25.txt",
+      "h": 2,
+      "time_sec": 0.0025502460011921357
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard26.txt",
+      "h": 2,
+      "time_sec": 0.0046672270000271965
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard27.txt",
+      "h": 2,
+      "time_sec": 0.005483020999236032
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard28.txt",
+      "h": 2,
+      "time_sec": 0.01997754200056079
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard29.txt",
+      "h": 2,
+      "time_sec": 0.01161150999905658
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard3.txt",
+      "h": 2,
+      "time_sec": 0.03054851399792824
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard30.txt",
+      "h": 2,
+      "time_sec": 0.002386619999015238
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard31.txt",
+      "h": 2,
+      "time_sec": 0.006200194999109954
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard32.txt",
+      "h": 2,
+      "time_sec": 0.0036621210019802675
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard33.txt",
+      "h": 2,
+      "time_sec": 0.008676393001223914
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard34.txt",
+      "h": 2,
+      "time_sec": 0.01095465600155876
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard35.txt",
+      "h": 2,
+      "time_sec": 0.0076977470016572624
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard36.txt",
+      "h": 2,
+      "time_sec": 0.014624393999838503
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard37.txt",
+      "h": 2,
+      "time_sec": 0.006849801000498701
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard38.txt",
+      "h": 2,
+      "time_sec": 0.015704460001870757
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard39.txt",
+      "h": 2,
+      "time_sec": 0.03519130100175971
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard4.txt",
+      "h": 2,
+      "time_sec": 0.004778553000505781
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard40.txt",
+      "h": 2,
+      "time_sec": 0.015256053000484826
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard41.txt",
+      "h": 2,
+      "time_sec": 0.020156190999841783
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard42.txt",
+      "h": 2,
+      "time_sec": 0.012794356000085827
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard43.txt",
+      "h": 2,
+      "time_sec": 0.002621917999931611
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard44.txt",
+      "h": 2,
+      "time_sec": 0.018840011998690898
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard45.txt",
+      "h": 2,
+      "time_sec": 0.012123516000428936
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard46.txt",
+      "h": 2,
+      "time_sec": 0.0023397730001306627
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard47.txt",
+      "h": 2,
+      "time_sec": 0.012144950000219978
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard48.txt",
+      "h": 2,
+      "time_sec": 0.006075482000596821
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard49.txt",
+      "h": 2,
+      "time_sec": 0.01431520299956901
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard5.txt",
+      "h": 2,
+      "time_sec": 0.004592956000124104
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard50.txt",
+      "h": 2,
+      "time_sec": 0.014822150998952566
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard6.txt",
+      "h": 2,
+      "time_sec": 0.003924983000615612
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard7.txt",
+      "h": 2,
+      "time_sec": 0.017132463999587344
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard8.txt",
+      "h": 2,
+      "time_sec": 0.009207910999975866
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/hard9.txt",
+      "h": 2,
+      "time_sec": 0.009767527000803966
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med1.txt",
+      "h": 2,
+      "time_sec": 0.031347249998361804
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med10.txt",
+      "h": 2,
+      "time_sec": 0.014658472999144578
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med11.txt",
+      "h": 2,
+      "time_sec": 0.002944612999272067
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med12.txt",
+      "h": 2,
+      "time_sec": 0.003896644000633387
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med13.txt",
+      "h": 2,
+      "time_sec": 0.02146307499788236
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med14.txt",
+      "h": 2,
+      "time_sec": 0.00780459399902611
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med15.txt",
+      "h": 2,
+      "time_sec": 0.002930892998847412
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med16.txt",
+      "h": 2,
+      "time_sec": 0.013448002999211894
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med17.txt",
+      "h": 2,
+      "time_sec": 0.02955033499893034
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med18.txt",
+      "h": 2,
+      "time_sec": 0.003900489999068668
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med19.txt",
+      "h": 2,
+      "time_sec": 0.003093740000622347
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med2.txt",
+      "h": 2,
+      "time_sec": 0.008102264000626747
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med20.txt",
+      "h": 2,
+      "time_sec": 0.013363280002522515
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med21.txt",
+      "h": 2,
+      "time_sec": 0.006839200999820605
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med22.txt",
+      "h": 2,
+      "time_sec": 0.006888400999741862
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med23.txt",
+      "h": 2,
+      "time_sec": 0.014689625000755768
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med24.txt",
+      "h": 2,
+      "time_sec": 0.0068515689999912865
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med25.txt",
+      "h": 2,
+      "time_sec": 0.0029318170018086676
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med26.txt",
+      "h": 2,
+      "time_sec": 0.015016466000815853
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med27.txt",
+      "h": 2,
+      "time_sec": 0.007432558999425964
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med28.txt",
+      "h": 2,
+      "time_sec": 0.015276089998224052
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med29.txt",
+      "h": 2,
+      "time_sec": 0.009654935998696601
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med3.txt",
+      "h": 2,
+      "time_sec": 0.008943246000853833
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med30.txt",
+      "h": 2,
+      "time_sec": 0.0063272469997173175
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med31.txt",
+      "h": 2,
+      "time_sec": 0.008601123998232652
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med32.txt",
+      "h": 2,
+      "time_sec": 0.005011043002014048
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med33.txt",
+      "h": 2,
+      "time_sec": 0.011053837999497773
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med34.txt",
+      "h": 2,
+      "time_sec": 0.013415710000117542
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med35.txt",
+      "h": 2,
+      "time_sec": 0.007139847002690658
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med36.txt",
+      "h": 2,
+      "time_sec": 0.011845783003082033
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med37.txt",
+      "h": 2,
+      "time_sec": 0.013588101999630453
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med38.txt",
+      "h": 2,
+      "time_sec": 0.0243480589997489
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med39.txt",
+      "h": 2,
+      "time_sec": 0.009796443999221083
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med4.txt",
+      "h": 2,
+      "time_sec": 0.009635074002289912
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med40.txt",
+      "h": 2,
+      "time_sec": 0.002996783998241881
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med41.txt",
+      "h": 2,
+      "time_sec": 0.005684269999619573
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med42.txt",
+      "h": 2,
+      "time_sec": 0.007960097998875426
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med43.txt",
+      "h": 2,
+      "time_sec": 0.01208213200152386
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med44.txt",
+      "h": 2,
+      "time_sec": 0.01142803499897127
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med45.txt",
+      "h": 2,
+      "time_sec": 0.006322125998849515
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med46.txt",
+      "h": 2,
+      "time_sec": 0.0033844989993667696
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med47.txt",
+      "h": 2,
+      "time_sec": 0.009569268000632292
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med48.txt",
+      "h": 2,
+      "time_sec": 0.024395306998485466
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med49.txt",
+      "h": 2,
+      "time_sec": 0.009773967001819983
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med5.txt",
+      "h": 2,
+      "time_sec": 0.002568916999734938
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med50.txt",
+      "h": 2,
+      "time_sec": 0.013711730996874394
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med6.txt",
+      "h": 2,
+      "time_sec": 0.016189434001717018
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med7.txt",
+      "h": 2,
+      "time_sec": 0.03860408800028381
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med8.txt",
+      "h": 2,
+      "time_sec": 0.015793852999195224
+    },
+    {
+      "file": "/root/workspace/mithil/puzzles/med9.txt",
+      "h": 2,
+      "time_sec": 0.011766404000809416
+    }
+  ],
+  "means": {
+    "0": 0.01637446303323183,
+    "1": 0.011620979986716217,
+    "2": 0.010757096659920837
+  }
+}

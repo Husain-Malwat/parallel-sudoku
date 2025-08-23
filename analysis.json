@@ -1,0 +1,9 @@
+{
+  "mean_times": {
+    "0": 0.01637446303323183,
+    "1": 0.011620979986716217,
+    "2": 0.010757096659920837
+  },
+  "n_files": 150,
+  "note": "h=0 is sequential backtracking; h=1 is parallel fork at depth 1; h=2 is deeper parallelization"
+}
