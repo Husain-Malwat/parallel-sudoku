@@ -1,10 +1,11 @@
 import subprocess, time, json, glob, os
 
-BIN = "/root/workspace/mithil/sudoku"
-OUTPUT_DIR = "/root/workspace/mithil/outputs"
-RESULTS_JSON = "/root/workspace/mithil/timings.json"
-ANALYSIS_JSON = "/root/workspace/mithil/analysis.json"
-input_path = "/root/workspace/mithil/puzzles"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BIN = f"{BASE_DIR}/sudoku"
+OUTPUT_DIR = f"{BASE_DIR}/outputs"
+RESULTS_JSON = f"{BASE_DIR}/timings.json"
+ANALYSIS_JSON = f"{BASE_DIR}/analysis.json"
+input_path = f"{BASE_DIR}/puzzles"
 
 def run_solver(input_file, h):
     base = os.path.basename(input_file).replace(".txt", f"_h{h}_sol.txt")
