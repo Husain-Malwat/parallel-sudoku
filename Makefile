@@ -1,17 +1,50 @@
-# Makefile
+# Makefile for Multiple Sudoku Solvers
 CC      := gcc
 CFLAGS  := -O2 -Wall -Wextra -std=c11
-# pthread is required for unnamed POSIX semaphores; -lrt is usually not needed on modern glibc
+
+# Source files and output binaries
+SOLVER_DIR := solvers
+BIN_DIR    := bin
+SOURCES    := $(wildcard $(SOLVER_DIR)/*.c)
+SOLVERS    := $(patsubst $(SOLVER_DIR)/%.c,$(BIN_DIR)/%,$(SOURCES))
+
+# Default LDLIBS (can be overridden per solver)
 LDLIBS  := -pthread
 
-# Change this if your file isn't named file.c
-SRC     := file.c
-BIN     := sudoku
+# All solvers
+all: $(BIN_DIR) $(SOLVERS)
 
-all: $(BIN)
+$(BIN_DIR):
+	mkdir -p $(BIN_DIR)
 
-$(BIN): $(SRC)
-	$(CC) $(CFLAGS) -o $(BIN) $(SRC) $(LDLIBS)
+# Generic rule for building solvers
+$(BIN_DIR)/%: $(SOLVER_DIR)/%.c
+	$(CC) $(CFLAGS) -o $@ $< $(LDLIBS)
 
+# Individual targets for specific solvers (useful for custom LDLIBS)
+.PHONY: sequential fork pthread
+
+sequential: $(BIN_DIR)/sequential
+fork: $(BIN_DIR)/fork
+pthread: $(BIN_DIR)/pthread
+
+# Optional: Different LDLIBS for specific solvers
+# Example: if fork.c doesn't need pthread
+# $(BIN_DIR)/fork: $(SOLVER_DIR)/fork.c
+#	$(CC) $(CFLAGS) -o $@ $< 
+
+# List available solvers
+.PHONY: list-solvers
+list-solvers:
+	@echo "Available solvers:"
+	@for solver in $(SOLVERS); do echo "  - $$(basename $$solver)"; done
+
+# Clean all
 clean:
-	rm -f $(BIN)
+	rm -f $(SOLVERS)
+
+# Clean specific solver
+clean-%:
+	rm -f $(BIN_DIR)/$*
+
+.PHONY: all clean list-solvers
